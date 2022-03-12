@@ -1,0 +1,51 @@
+Features
+Admin Side
+
+    Login Page
+    Home Page
+        Displays All the Published Blogs or Articles
+    Filtered by Category Published Posts Page
+    List All Active Categories
+    Categories Management
+        Add New Category
+        List All Categories
+        Update Category Details
+        Delete Category Details
+    Post Management
+        Add New Post
+        List All Posts
+        Update Post Details
+        Delete Post Details
+    Update User Details
+    Update User Avatar
+    Logout
+
+Authors Side
+
+    Login and Registration Page
+    Home Page
+        Displays All the Published Blogs or Articles
+    Filtered by Category Published Posts Page
+    List All Active Categories
+    Post Management
+        Add New Post
+        List All Posts
+        Update Post Details
+        Delete Post Details
+    Update User Details
+    Update User Avatar
+    Logout
+
+Public Side
+
+    Home Page
+        Displays All the Published Blogs or Articles
+    Filtered by Category Published Posts Page
+    List All Active Categories
+
+
+Access Information
+
+SuperUser
+Username: admin
+Password: admin123
